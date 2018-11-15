@@ -1,0 +1,7 @@
+{
+  "name": "DAM20182_LOPEZ_T05",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}

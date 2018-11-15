@@ -1,0 +1,22 @@
+[
+    {
+        "name":"Multiplataformas",
+        "category": "Programacion",
+        "photo": "https://i.imgur.com/aBlu9Gy.png"
+    },
+    {
+        "name":"Matematicas",
+        "category": "Integral",
+        "photo": "https://articles-images.sftcdn.net/wp-content/uploads/sites/2/2017/05/maths.jpg"
+    },
+    {
+        "name":"Ciencias Naturales 1",
+        "category": "Ciencias",
+        "photo": "https://st2.depositphotos.com/2800301/10917/v/950/depositphotos_109171184-stock-illustration-chemistry-pharmacology-natural-sciences-vector.jpg"
+    },
+    {
+        "name":"Fisica 3",
+        "category": "Ciencias Fisicas",
+        "photo": "https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX20357595.jpg"
+    }
+]
